@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Journal Book</string>
+    <string name="action_logout">Log Out</string>
+    <string name="title_activity_main">Entries List</string>
+    <string name="title_activity_journal">Entries</string>
+    <string name="edit_journal_title">Title</string>
+    <string name="edit_journal_contents">Description</string>
+
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="text_welcome">Welcome to my Journal App!</string>
+    <string name="text_add_entry">Add new entry</string>
+    <string name="text_edit_entry">Edit entry</string>
+    <string name="text_copy_right">Created by George Tsiga</string>
+    <string name="text_udacity_logo">Udacity Logo</string>
+    <string name="text_user_logo">User Logo</string>
+</resources>
